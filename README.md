@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kelmcclain
-- 👀 I’m interested in android and web development
+- 👀 I’m interested in Data Science, Machine Learning & Deeplearning, android and web development
 - 🌱 I’m currently learning flutter and python
-- 💞️ I’m looking to collaborate on any mobile or web development
 - 📫 How to reach me; mcclaintuei@gmail.com
 
 <!---
