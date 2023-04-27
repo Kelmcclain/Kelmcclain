@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelmcclain
 - 👀 I’m interested in Data Science, Machine Learning & Deeplearning, android and web development
 - 🌱 I’m currently learning flutter and python
-- 📫 How to reach me; mcclaintuei@gmail.com
+- 📫 How to reach me; kelmcclain.github.io
 
 <!---
 Kelmcclain/Kelmcclain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
