@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelmcclain
 - 👀 I’m interested in Data Science, Machine Learning & Deeplearning, android and web development
-- 🌱 I’m currently learning flutter and python
+- 🌱 I’m currently learning Data analytics and machine learning
 - 📫 How to reach me; [kelmcclain.github.io](https://kelmcclain.github.io/)
 
 <!---
