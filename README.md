@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelmcclain
-- 👀 I’m interested in Data Science, Machine Learning & Deeplearning, android and web development
+- 👀 I’m interested in Data Science, Machine Learning, android, and web development
 - 🌱 I’m currently learning Data Science and Machine learning
 - 📫 How to reach me; [kelmcclain.github.io](https://kelmcclain.github.io/)
 
