@@ -51,7 +51,7 @@
 ## 📫 How to Reach Me
 
 - 🌐 [kelmcclain.github.io](https://kelmcclain.github.io/)
-- ✉️ Email: [kelmcclain@example.com](mailto:mcclainkel@gmail.com) 
+- ✉️ Email: [mcclainkel@gmail.com](mailto:mcclainkel@gmail.com) 
 
 ## 🚀 My GitHub Stats
 
