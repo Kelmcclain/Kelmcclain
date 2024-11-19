@@ -55,10 +55,21 @@
 
 # 🚀 My GitHub Stats
 
-<div align="center">
 
 ![Kelmcclain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelmcclain&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelmcclain&layout=compact&theme=radical)
 
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kelmcclain&theme=radical)
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kelmcclain&theme=radical&utcOffset=8)
+
+---
+
+### 🌟 Highlights
+
+- **Contributions**: Consistently contributing to open source and personal projects.
+- **Tech Stack**: A focus on modern frameworks and tools.
+- **Learning**: Always exploring and learning new technologies to stay ahead.
+- **Activity**: Shows active coding times and streaks, giving insights into productivity.
+
