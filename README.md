@@ -57,13 +57,24 @@
 
 <div align="center">
 
-![Kelmcclain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelmcclain&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelmcclain&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kelmcclain&theme=radical)
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kelmcclain&theme=radical&utcOffset=8)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kelmcclain&show_icons=true&theme=radical" alt="Kelmcclain's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelmcclain&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelmcclain&theme=radical" alt="Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kelmcclain&theme=radical&utcOffset=8" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
