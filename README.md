@@ -53,8 +53,12 @@
 - 🌐 [kelmcclain.github.io](https://kelmcclain.github.io/)
 - ✉️ Email: [mcclainkel@gmail.com](mailto:mcclainkel@gmail.com) 
 
-## 🚀 My GitHub Stats
+# 🚀 My GitHub Stats
+
+<div align="center">
 
 ![Kelmcclain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelmcclain&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelmcclain&layout=compact&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelmcclain&layout=compact&theme=radical)
+
+</div>
